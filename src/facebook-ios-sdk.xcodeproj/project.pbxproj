@@ -272,6 +272,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.2;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -285,6 +286,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.2;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
